@@ -1,0 +1,286 @@
+#mainCircle{
+    height: 700px;
+    width: 700px;
+    text-align: center;
+}
+
+.aboutMeCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    background: #1e5799; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #1e5799 0%, #2989d8 50%, #7db9e8 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #1e5799 0%,#2989d8 50%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #1e5799 0%,#2989d8 50%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+.todoListCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    background: #b4ddb4; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+
+.uniRankerCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+80,6d0019+100 */
+    background: #a90329; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #a90329 0%, #8f0222 80%, #6d0019 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #a90329 0%,#8f0222 80%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #a90329 0%,#8f0222 80%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+.neuroPsychCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+80,6d0019+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+.tapCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+80,6d0019+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffb76b+0,ffa73d+50,ff7c00+51,ff7f04+100;Orange+Gloss */
+    background: #ffb76b; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #ffb76b 0%, #ffa73d 50%, #ff7c00 51%, #ff7f04 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+.colorGuessCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+80,6d0019+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffb76b+0,ffa73d+50,ff7c00+51,ff7f04+100;Orange+Gloss */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fb83fa+0,e93cec+100;Pink+3D+%232 */
+    background: #fb83fa; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #fb83fa 0%, #e93cec 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #fb83fa 0%,#e93cec 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #fb83fa 0%,#e93cec 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb83fa', endColorstr='#e93cec',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+.yelpCampCircle{
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+    border-radius: 350px;
+    text-align: center;
+    color: white;
+    border: 7px solid #000000;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+80,6d0019+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffb76b+0,ffa73d+50,ff7c00+51,ff7f04+100;Orange+Gloss */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fb83fa+0,e93cec+100;Pink+3D+%232 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#627d4d+0,1f3b08+100;Olive+3D */
+    background: #627d4d; /* Old browsers */
+    background: -moz-linear-gradient(45deg,  #627d4d 0%, #1f3b08 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  #627d4d 0%,#1f3b08 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  #627d4d 0%,#1f3b08 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#627d4d', endColorstr='#1f3b08',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    /*shadow*/
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+.aboutMeContainer{
+   padding-top: 50px;
+}
+
+
+#aboutMeHeader{
+    margin-bottom: 50px;
+}
+
+#todoListDesc{
+
+}
+
+#profilePic{
+    width: 200px;
+    height: 200px;
+    margin: 1em auto;
+    background:  no-repeat center center;
+    background-size: cover;
+    -webkit-border-radius: 99em;
+    -moz-border-radius: 99em;
+    border-radius: 99em;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+#aboutMeDesc{
+    margin-top: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: center;
+}
+
+.circle{
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+    /*background-color: green;*/
+    border-radius: 400px;
+    text-align: center;
+    color: white;
+    -webkit-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 109px 10px rgba(0,0,0,0.75);
+}
+
+#resumeCircle{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+}
+
+#uniRankerSmall{
+   background-color: yellow;
+    height: 150px;
+    width: 150px;
+}
+
+#tapSmall{
+    background-color: #1e5799;
+    height: 150px;
+    width: 150px;
+}
+
+#neuroPsychSmall{
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+}
+
+#colorGuessSmall{
+    background-color: orange;
+    height: 150px;
+    width: 150px;
+}
+
+#todoListSmall{
+    background-color: gold;
+    height: 150px;
+    width: 150px;
+}
+
+
+#yelpCampSmall{
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+}
+
+#aboutMeSmall{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+}
