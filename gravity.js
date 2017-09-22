@@ -1,6 +1,51 @@
+/*
 
+ * @project:	jGravity
+ * @version:	0.8 - 29/04/2012
+ * @author:		Craig Thomas - www.tinybigideas.com
+ * @project:	http://tinybigideas.com/plugins/jquery-gravity/
+ * @license:	jGravity is licensed under a Open Source Initiative OSI MIT License: http://opensource.org/licenses/mit-license.php
+ * @changlog:	http://tinybigideas.com/plugins/jquery-gravity/
 
-/* Based on Alex Arnell's inheritance implementation. */
+ */
+
+/*------------------------------------*\
+   CREDITS
+\*------------------------------------*/
+/*
+ - Mr. Doobs :: http://mrdoob.com/92/Google_Gravity
+ - GravityScript :: http://gravityscript.googlecode.com/
+ - Alex Arnell's inheritance.js :: http://code.google.com/p/inheritance/
+ - Box2Djs :: http://box2d-js.sourceforge.net/
+*/
+
+/*------------------------------------*\
+   CONTENTS
+\*------------------------------------*/
+/*
+LIBRARIES
+ - Alex Arnell's inheritance.js
+ - Box2Djs (port of Box2DFlash 1.4.3.1) :: http://box2d-js.sourceforge.net/
+WORKERS
+ - variables
+ - get browser dimensions
+ - initialise
+FUNCTIONS
+ - init()
+ - run()
+ - onDocumentMouseDown()
+ - onDocumentMouseUp()
+ - onDocumentMouseMove()
+ - onElementMouseDown()
+ - onnElementMouseUp()
+ - loop()
+ - createBox()
+ - mouseDrag()
+ - getBodyAtMouse()
+ - setWalls()
+ - getBrowserDimensions()
+
+*/
 var Class = {
     create: function() {
         var parent = null, properties = $A(arguments);
