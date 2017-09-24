@@ -402,3 +402,13 @@ h5{
     width: 300px;
 }
 
+#dragMeSmall{
+    background-color: rgba(0, 0, 0, 0.33);
+
+    border-radius: 20px;
+    margin: 0 auto;
+    cursor: default;
+    height: 100px;
+    width: 300px;
+}
+
