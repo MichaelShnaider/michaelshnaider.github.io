@@ -93,5 +93,5 @@ function fade(element) {
 }
 setTimeout(function(){
     fade(info);
-},5000);
+},10000);
 
