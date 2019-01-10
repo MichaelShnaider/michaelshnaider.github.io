@@ -9,9 +9,29 @@ document.querySelector(".neuroPsychContainer").style.display="none";
 document.querySelector(".tapContainer").style.display="none";
 document.querySelector(".colorGuessContainer").style.display="none";
 document.querySelector(".yelpCampContainer").style.display="none";
+document.querySelector(".memorizeContainer").style.display="none";
+document.querySelector(".cruizorContainer").style.display="none";
 
 
+document.getElementById("cruizorSmall").addEventListener("click",function(){
+  if(currentlyActive !== "cruizor"){
+      mainCircle[0].classList.add('cruizorCircle');
+      mainCircle[0].classList.remove(currentlyActive+"Circle");
+      document.querySelector("."+currentlyActive+"Container").style.display="none";
+      document.querySelector(".cruizorContainer").style.display="block";
+      currentlyActive="cruizor"
+  }
+});
 
+document.getElementById("memorizeSmall").addEventListener("click",function(){
+  if(currentlyActive !== "memorize"){
+      mainCircle[0].classList.add('memorizeCircle');
+      mainCircle[0].classList.remove(currentlyActive+"Circle");
+      document.querySelector("."+currentlyActive+"Container").style.display="none";
+      document.querySelector(".memorizeContainer").style.display="block";
+      currentlyActive="memorize"
+  }
+});
 
 document.getElementById("todoListSmall").addEventListener("click",function(){
     if(currentlyActive !== "todoList"){
