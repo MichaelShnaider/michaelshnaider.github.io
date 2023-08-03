@@ -163,6 +163,29 @@ h5 {
   box-shadow: 10px 10px 109px 10px rgba(0, 0, 0, 0.75);
 }
 
+.devcertifiedCircle {
+  /*padding-top: 50px;*/
+  margin: 0 auto;
+  height: 700px;
+  width: 400px;
+  border-radius: 20px;
+  text-align: center;
+  color: black;
+  border: 2px solid #000000;
+  padding: 50px;
+  background-color: rgba(255, 251, 1, 0.5);
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,7db9e8+100 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+  /*shadow*/
+  -webkit-box-shadow: 10px 10px 109px 10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 109px 10px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 109px 10px rgba(0, 0, 0, 0.75);
+}
+
+
 .cruizorCircle {
   padding-top: 50px;
   margin: 0 auto;
@@ -318,6 +341,10 @@ h5 {
 
 }
 
+.devcertifiedContainer {
+
+}
+
 .container {
   margin-left: 10px;
   margin-right: 10px;
@@ -427,6 +454,13 @@ h5 {
 
 #memorizeSmall {
   background-color: rgba(0, 230, 255, 0.5);
+
+  height: 100px;
+  width: 300px;
+}
+
+#devcertifiedSmall {
+  background-color: rgba(255, 251, 1, 0.5);
 
   height: 100px;
   width: 300px;

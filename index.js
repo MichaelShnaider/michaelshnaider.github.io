@@ -10,6 +10,7 @@ document.querySelector(".tapContainer").style.display="none";
 document.querySelector(".colorGuessContainer").style.display="none";
 document.querySelector(".yelpCampContainer").style.display="none";
 document.querySelector(".memorizeContainer").style.display="none";
+document.querySelector(".devcertifiedContainer").style.display="none";
 document.querySelector(".cruizorContainer").style.display="none";
 
 
@@ -31,6 +32,16 @@ document.getElementById("memorizeSmall").addEventListener("click",function(){
       document.querySelector(".memorizeContainer").style.display="block";
       currentlyActive="memorize"
   }
+});
+
+document.getElementById("devcertifiedSmall").addEventListener("click",function(){
+    if(currentlyActive !== "devcertified"){
+        mainCircle[0].classList.add('devcertifiedCircle');
+        mainCircle[0].classList.remove(currentlyActive+"Circle");
+        document.querySelector("."+currentlyActive+"Container").style.display="none";
+        document.querySelector(".devcertifiedContainer").style.display="block";
+        currentlyActive="devcertified"
+    }
 });
 
 document.getElementById("todoListSmall").addEventListener("click",function(){
